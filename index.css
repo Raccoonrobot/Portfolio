@@ -1,0 +1,41 @@
+header, h1, h2, h3, button {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+}
+head {
+    margin: auto;
+}
+
+h1, h2, h3 {
+    
+    margin: 30px;
+}
+body {
+    position: absolute;
+    text-align: center;
+    background-color: antiquewhite;
+}
+img {
+    width: 300px;
+    padding-top: 50px;
+    border: 2px;
+    border-color: black;
+}
+p {
+    padding: 100px;
+
+}
+button {
+    color: black;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 10px;
+}
+.intro {
+    display: inline-flex;
+}
+.keri {
+    transform: rotate(-90deg);
+    margin: auto;
+  }
